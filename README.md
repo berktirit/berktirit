@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Berk.
 
-- 🌱 I’m currently learning **JavaScript Environment**
+- 🌱 I’m currently learning **Java and JavaScript Environment**
 - 📫 How to reach me **tiritberk@gmail.com**
 
 ### Languages and Tools:
